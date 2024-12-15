@@ -1,0 +1,1696 @@
+[
+    {
+        "country": "afghanistan",
+        "hospital_id": "4eb9d3e5cf79b91",
+        "covid": 297,
+        "stroke": 533,
+        "cancer": 2372
+    },
+    {
+        "country": "afghanistan",
+        "hospital_id": "bba52b87bb6a32f",
+        "covid": 126,
+        "stroke": 3772,
+        "cancer": 3041
+    },
+    {
+        "country": "afghanistan",
+        "hospital_id": "8a9190a50adf241",
+        "covid": 2321,
+        "stroke": 4533,
+        "cancer": 4294
+    },
+    {
+        "country": "albania",
+        "hospital_id": "3d41753aadac2fb",
+        "covid": 1559,
+        "stroke": 4614,
+        "cancer": 4059
+    },
+    {
+        "country": "albania",
+        "hospital_id": "91ba1665eeb4d22",
+        "covid": 2643,
+        "stroke": 795,
+        "cancer": 4876
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "aac4f9abf86eaef",
+        "covid": 1452,
+        "stroke": 4097,
+        "cancer": 3979
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "27fbc78271f3aa2",
+        "covid": 3383,
+        "stroke": 3593,
+        "cancer": 1792
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "b715731fa4a6cdb",
+        "covid": 630,
+        "stroke": 4169,
+        "cancer": 2611
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "df66e70fae1aa5d",
+        "covid": 4426,
+        "stroke": 620,
+        "cancer": 3988
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "a3b8d27d51aae2f",
+        "covid": 4967,
+        "stroke": 4475,
+        "cancer": 4619
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "bec776b6c8ce1ac",
+        "covid": 740,
+        "stroke": 1640,
+        "cancer": 3481
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "38df1aedef8e004",
+        "covid": 2246,
+        "stroke": 900,
+        "cancer": 2039
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "acc61a49398bdd4",
+        "covid": 1775,
+        "stroke": 836,
+        "cancer": 2395
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "2fab6dad4afe024",
+        "covid": 754,
+        "stroke": 4115,
+        "cancer": 3173
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "a1c2b67b5a01adf",
+        "covid": 2849,
+        "stroke": 1837,
+        "cancer": 1134
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "2ecb7041dc2adf1",
+        "covid": 2966,
+        "stroke": 3678,
+        "cancer": 2152
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "dffc100fccdc16d",
+        "covid": 3407,
+        "stroke": 4815,
+        "cancer": 1910
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "bfa9a7d5cd3ea2c",
+        "covid": 1530,
+        "stroke": 3668,
+        "cancer": 936
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "fcdbf9ac5f68eaa",
+        "covid": 1783,
+        "stroke": 686,
+        "cancer": 4091
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "6f442e8596b4b4e",
+        "covid": 3505,
+        "stroke": 2901,
+        "cancer": 163
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "5a3d438bd544b85",
+        "covid": 4377,
+        "stroke": 3398,
+        "cancer": 2321
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "bde405d2e490ebe",
+        "covid": 247,
+        "stroke": 2999,
+        "cancer": 3164
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "3c08339af3bb8c8",
+        "covid": 3200,
+        "stroke": 283,
+        "cancer": 3740
+    },
+    {
+        "country": "algeria",
+        "hospital_id": "6ea03577dc2f3c3",
+        "covid": 4239,
+        "stroke": 4745,
+        "cancer": 2994
+    },
+    {
+        "country": "angola",
+        "hospital_id": "c494abe0cdb9c70",
+        "covid": 1130,
+        "stroke": 4814,
+        "cancer": 1476
+    },
+    {
+        "country": "angola",
+        "hospital_id": "c7afe1e7295d09a",
+        "covid": 2843,
+        "stroke": 2628,
+        "cancer": 2411
+    },
+    {
+        "country": "angola",
+        "hospital_id": "bd5e1a9a3f0f95a",
+        "covid": 3701,
+        "stroke": 3744,
+        "cancer": 2530
+    },
+    {
+        "country": "angola",
+        "hospital_id": "ec0e323acd42b6e",
+        "covid": 1382,
+        "stroke": 1308,
+        "cancer": 267
+    },
+    {
+        "country": "angola",
+        "hospital_id": "e4c640af4aa845a",
+        "covid": 654,
+        "stroke": 2260,
+        "cancer": 4021
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "bf0ebca305efbe4",
+        "covid": 2014,
+        "stroke": 1666,
+        "cancer": 4000
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "ecb7aae9a6cb36d",
+        "covid": 3695,
+        "stroke": 2241,
+        "cancer": 3836
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "3deebf49bd2fce7",
+        "covid": 3538,
+        "stroke": 1642,
+        "cancer": 4715
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "9f8efb3d03193db",
+        "covid": 2790,
+        "stroke": 4508,
+        "cancer": 2731
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "27eab75ce19c101",
+        "covid": 2131,
+        "stroke": 4161,
+        "cancer": 4338
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "0a3ca1e9c01baae",
+        "covid": 3294,
+        "stroke": 3831,
+        "cancer": 3590
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "7ade1d82d2ac863",
+        "covid": 751,
+        "stroke": 3172,
+        "cancer": 190
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "bf1cc30febed38c",
+        "covid": 1982,
+        "stroke": 4046,
+        "cancer": 2401
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "ee4aa1dc0265e0e",
+        "covid": 1474,
+        "stroke": 2966,
+        "cancer": 1717
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "ffdb822c7597c10",
+        "covid": 3070,
+        "stroke": 2488,
+        "cancer": 153
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "f801bac42f9ac1f",
+        "covid": 2583,
+        "stroke": 2163,
+        "cancer": 4574
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "244f2bdbb45dcbc",
+        "covid": 3991,
+        "stroke": 4699,
+        "cancer": 134
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "50d48830dc9a8ac",
+        "covid": 2128,
+        "stroke": 4821,
+        "cancer": 943
+    },
+    {
+        "country": "anguilla",
+        "hospital_id": "beef0bf7cabe089",
+        "covid": 4948,
+        "stroke": 3569,
+        "cancer": 1278
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "9eeb46cbf04eeff",
+        "covid": 1151,
+        "stroke": 3501,
+        "cancer": 3446
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "3ed7b5f7c7f2bfe",
+        "covid": 397,
+        "stroke": 2148,
+        "cancer": 4812
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "6aa8ef34dceed25",
+        "covid": 425,
+        "stroke": 3029,
+        "cancer": 2515
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "d0b5d62f4ba941f",
+        "covid": 1249,
+        "stroke": 2165,
+        "cancer": 1174
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "ecedfb72daeebbc",
+        "covid": 3660,
+        "stroke": 4830,
+        "cancer": 2919
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "d2ef4c24da2d2a7",
+        "covid": 2341,
+        "stroke": 3059,
+        "cancer": 3108
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "af3b0dc3a779eb5",
+        "covid": 912,
+        "stroke": 1709,
+        "cancer": 3761
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "ee2d54f3ad9c126",
+        "covid": 2730,
+        "stroke": 1863,
+        "cancer": 2368
+    },
+    {
+        "country": "argentina",
+        "hospital_id": "f40fc5a648c53f3",
+        "covid": 1407,
+        "stroke": 3841,
+        "cancer": 4308
+    },
+    {
+        "country": "australia",
+        "hospital_id": "e9bebd37bfee7bb",
+        "covid": 227,
+        "stroke": 661,
+        "cancer": 2515
+    },
+    {
+        "country": "australia",
+        "hospital_id": "6f8e7fe3ccfcb7c",
+        "covid": 3130,
+        "stroke": 1034,
+        "cancer": 4147
+    },
+    {
+        "country": "austria",
+        "hospital_id": "9f63c73be6a39e9",
+        "covid": 690,
+        "stroke": 4416,
+        "cancer": 3119
+    },
+    {
+        "country": "austria",
+        "hospital_id": "ccd85e8579f9c7e",
+        "covid": 683,
+        "stroke": 593,
+        "cancer": 1160
+    },
+    {
+        "country": "austria",
+        "hospital_id": "5022c998edeada1",
+        "covid": 3786,
+        "stroke": 2354,
+        "cancer": 4839
+    },
+    {
+        "country": "austria",
+        "hospital_id": "eb1f0a485ff5c50",
+        "covid": 3211,
+        "stroke": 2160,
+        "cancer": 4437
+    },
+    {
+        "country": "austria",
+        "hospital_id": "0de4671f41341d6",
+        "covid": 4098,
+        "stroke": 4193,
+        "cancer": 3543
+    },
+    {
+        "country": "austria",
+        "hospital_id": "90bbf5c6d616dbf",
+        "covid": 2401,
+        "stroke": 705,
+        "cancer": 2742
+    },
+    {
+        "country": "australia",
+        "hospital_id": "4d17fa0d985e0d7",
+        "covid": 4273,
+        "stroke": 2628,
+        "cancer": 1513
+    },
+    {
+        "country": "australia",
+        "hospital_id": "6be8a1ef720fd32",
+        "covid": 4425,
+        "stroke": 3475,
+        "cancer": 3605
+    },
+    {
+        "country": "australia",
+        "hospital_id": "4ded9e3ff968e7c",
+        "covid": 967,
+        "stroke": 1589,
+        "cancer": 2999
+    },
+    {
+        "country": "australia",
+        "hospital_id": "bbb5ab4b0aad7a3",
+        "covid": 198,
+        "stroke": 1936,
+        "cancer": 3549
+    },
+    {
+        "country": "australia",
+        "hospital_id": "a5ffb6afd24d2eb",
+        "covid": 3478,
+        "stroke": 4827,
+        "cancer": 2654
+    },
+    {
+        "country": "australia",
+        "hospital_id": "ad103986bdbe6ad",
+        "covid": 4307,
+        "stroke": 3216,
+        "cancer": 4264
+    },
+    {
+        "country": "bahamas",
+        "hospital_id": "ea8a779bec3c8ff",
+        "covid": 2260,
+        "stroke": 368,
+        "cancer": 263
+    },
+    {
+        "country": "bahamas",
+        "hospital_id": "ba404ddd2ad309a",
+        "covid": 1415,
+        "stroke": 2425,
+        "cancer": 1431
+    },
+    {
+        "country": "bahamas",
+        "hospital_id": "2eaa3c5d6cc37b9",
+        "covid": 4851,
+        "stroke": 1566,
+        "cancer": 3345
+    },
+    {
+        "country": "bahamas",
+        "hospital_id": "4dbcfb13cf62f8f",
+        "covid": 1166,
+        "stroke": 4794,
+        "cancer": 1795
+    },
+    {
+        "country": "bahamas",
+        "hospital_id": "fde4affceee8f58",
+        "covid": 2810,
+        "stroke": 3503,
+        "cancer": 3573
+    },
+    {
+        "country": "bahamas",
+        "hospital_id": "2606f29ee3f97f5",
+        "covid": 3651,
+        "stroke": 813,
+        "cancer": 3333
+    },
+    {
+        "country": "bahrain",
+        "hospital_id": "a3bb544c4f950e5",
+        "covid": 3368,
+        "stroke": 894,
+        "cancer": 1546
+    },
+    {
+        "country": "bahrain",
+        "hospital_id": "f56155a0a9ce693",
+        "covid": 4711,
+        "stroke": 1075,
+        "cancer": 575
+    },
+    {
+        "country": "bahrain",
+        "hospital_id": "073cf1efaada57a",
+        "covid": 566,
+        "stroke": 4377,
+        "cancer": 4366
+    },
+    {
+        "country": "bahrain",
+        "hospital_id": "9c9ad5abae300f4",
+        "covid": 3187,
+        "stroke": 2327,
+        "cancer": 4201
+    },
+    {
+        "country": "bahrain",
+        "hospital_id": "0aab0baad1d0622",
+        "covid": 4806,
+        "stroke": 4763,
+        "cancer": 608
+    },
+    {
+        "country": "bangladesh",
+        "hospital_id": "dffd5cb3c19fa22",
+        "covid": 2537,
+        "stroke": 546,
+        "cancer": 4286
+    },
+    {
+        "country": "bangladesh",
+        "hospital_id": "fff54ebcb7f443b",
+        "covid": 2603,
+        "stroke": 3437,
+        "cancer": 3878
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "a832ebc6811df1a",
+        "covid": 4307,
+        "stroke": 3640,
+        "cancer": 4193
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "61521f79cd45a7b",
+        "covid": 3248,
+        "stroke": 326,
+        "cancer": 1345
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "cc88150b8ecad8c",
+        "covid": 1475,
+        "stroke": 3220,
+        "cancer": 1744
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "db0ecf7ddcc3a7a",
+        "covid": 1484,
+        "stroke": 2850,
+        "cancer": 1149
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "c18b4aad9adf4cf",
+        "covid": 1949,
+        "stroke": 1501,
+        "cancer": 4575
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "ff4cdcd04bc0da8",
+        "covid": 2951,
+        "stroke": 2264,
+        "cancer": 1530
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "318c1f58cfcbda9",
+        "covid": 1060,
+        "stroke": 4832,
+        "cancer": 3920
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "5b77f60c3cc6ae6",
+        "covid": 2806,
+        "stroke": 967,
+        "cancer": 4895
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "31aeba479968af3",
+        "covid": 502,
+        "stroke": 2679,
+        "cancer": 1576
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "97bfc3c2f851b8b",
+        "covid": 1429,
+        "stroke": 102,
+        "cancer": 1400
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "68aa8ddf26e3aca",
+        "covid": 4701,
+        "stroke": 2421,
+        "cancer": 3464
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "fb20b12fcf3f4be",
+        "covid": 1009,
+        "stroke": 2450,
+        "cancer": 165
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "5cb0bbca289679c",
+        "covid": 864,
+        "stroke": 2650,
+        "cancer": 1067
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "44b829ad3abbdf3",
+        "covid": 4014,
+        "stroke": 3637,
+        "cancer": 1809
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "ddce3797f22d3ae",
+        "covid": 221,
+        "stroke": 3662,
+        "cancer": 4382
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "78ea4c2c1cb83ab",
+        "covid": 2762,
+        "stroke": 1642,
+        "cancer": 3084
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "faacec3019bf7f5",
+        "covid": 2836,
+        "stroke": 1502,
+        "cancer": 3653
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "89adcc6b8715b23",
+        "covid": 3127,
+        "stroke": 3496,
+        "cancer": 4911
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "bdf1b9f31a0dacb",
+        "covid": 3419,
+        "stroke": 4148,
+        "cancer": 1835
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "a11b2cc54eae95b",
+        "covid": 1252,
+        "stroke": 4956,
+        "cancer": 2924
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "c3ba071a2bb4d6f",
+        "covid": 1364,
+        "stroke": 2133,
+        "cancer": 1115
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "a51ffffdb11cff2",
+        "covid": 2808,
+        "stroke": 3029,
+        "cancer": 3032
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "944bb87fc8a613e",
+        "covid": 4818,
+        "stroke": 2045,
+        "cancer": 2105
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "d1f772a3528ecfc",
+        "covid": 2599,
+        "stroke": 4783,
+        "cancer": 3629
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "c087578943f19e4",
+        "covid": 663,
+        "stroke": 1504,
+        "cancer": 3889
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "9d7e4c3afd2392c",
+        "covid": 2516,
+        "stroke": 1055,
+        "cancer": 724
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "9ec72158e7c46d2",
+        "covid": 4242,
+        "stroke": 2642,
+        "cancer": 347
+    },
+    {
+        "country": "belgium",
+        "hospital_id": "4255e3e4acf7abf",
+        "covid": 999,
+        "stroke": 1049,
+        "cancer": 2104
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "d214d152bdf2f3d",
+        "covid": 3193,
+        "stroke": 636,
+        "cancer": 1902
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "cdbd7720bba0bf5",
+        "covid": 604,
+        "stroke": 3329,
+        "cancer": 3816
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "ed8abdcda9dd862",
+        "covid": 959,
+        "stroke": 4549,
+        "cancer": 1278
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "a3a8d60af487c75",
+        "covid": 1415,
+        "stroke": 4914,
+        "cancer": 3083
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "ffb1a8af4fec7ce",
+        "covid": 1176,
+        "stroke": 4085,
+        "cancer": 2230
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "afcbe39d8b0b2f6",
+        "covid": 215,
+        "stroke": 278,
+        "cancer": 1654
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "040bddafc73cb32",
+        "covid": 3059,
+        "stroke": 3241,
+        "cancer": 4446
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "b25ffe2fdbc55d1",
+        "covid": 4587,
+        "stroke": 3476,
+        "cancer": 1800
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "b598519fdfc530b",
+        "covid": 575,
+        "stroke": 1836,
+        "cancer": 4403
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "7db53b8ca40ab0d",
+        "covid": 594,
+        "stroke": 3134,
+        "cancer": 539
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "eaa4e1cf00ee3c2",
+        "covid": 2361,
+        "stroke": 1368,
+        "cancer": 4150
+    },
+    {
+        "country": "botswana",
+        "hospital_id": "56bdd78bbcdcca4",
+        "covid": 3730,
+        "stroke": 1891,
+        "cancer": 1443
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "dedd9d0aa6115d3",
+        "covid": 4016,
+        "stroke": 3164,
+        "cancer": 1917
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "c763f85cc571e19",
+        "covid": 3501,
+        "stroke": 1931,
+        "cancer": 2352
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "a376a6d71f1c36c",
+        "covid": 1208,
+        "stroke": 893,
+        "cancer": 3219
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "f73b358bf010f7f",
+        "covid": 2915,
+        "stroke": 1518,
+        "cancer": 1174
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "3899d932c149e5c",
+        "covid": 3121,
+        "stroke": 2104,
+        "cancer": 3942
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "ddba684d69764eb",
+        "covid": 2329,
+        "stroke": 4768,
+        "cancer": 2956
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "51acf1269e194e8",
+        "covid": 176,
+        "stroke": 3399,
+        "cancer": 600
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "ebdceaf8b6b2fb5",
+        "covid": 4987,
+        "stroke": 3059,
+        "cancer": 3609
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "db82eaf8e7a59af",
+        "covid": 4896,
+        "stroke": 2083,
+        "cancer": 3932
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "18c26fd0fad73e3",
+        "covid": 2937,
+        "stroke": 1600,
+        "cancer": 3738
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "afee981fbacdbe8",
+        "covid": 3880,
+        "stroke": 2340,
+        "cancer": 548
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "ce017b247db1ede",
+        "covid": 1223,
+        "stroke": 2941,
+        "cancer": 1961
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "55cc2d7816506bd",
+        "covid": 2620,
+        "stroke": 3759,
+        "cancer": 3207
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "ec2dae361f8bb30",
+        "covid": 1526,
+        "stroke": 4508,
+        "cancer": 1718
+    },
+    {
+        "country": "brazil",
+        "hospital_id": "fe8bbb899efcb06",
+        "covid": 4335,
+        "stroke": 1990,
+        "cancer": 4439
+    },
+    {
+        "country": "brunei darussalam",
+        "hospital_id": "9dd10a3ccb2b1bd",
+        "covid": 1937,
+        "stroke": 1204,
+        "cancer": 1667
+    },
+    {
+        "country": "brunei darussalam",
+        "hospital_id": "e84e97db7bfaded",
+        "covid": 3317,
+        "stroke": 1638,
+        "cancer": 1446
+    },
+    {
+        "country": "brunei darussalam",
+        "hospital_id": "df39abf66ae4d0c",
+        "covid": 2942,
+        "stroke": 154,
+        "cancer": 1811
+    },
+    {
+        "country": "brunei darussalam",
+        "hospital_id": "6b345d487edf9df",
+        "covid": 325,
+        "stroke": 2479,
+        "cancer": 1520
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "e5ca6529dcd4030",
+        "covid": 3557,
+        "stroke": 2865,
+        "cancer": 3278
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "4cd5cc59b0aa9c5",
+        "covid": 2539,
+        "stroke": 1111,
+        "cancer": 2086
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "a0dcf3bcf1addea",
+        "covid": 4877,
+        "stroke": 115,
+        "cancer": 1951
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "0fbfeda9d5e0b69",
+        "covid": 2600,
+        "stroke": 2459,
+        "cancer": 2988
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "c44a5cdf9c829e3",
+        "covid": 2658,
+        "stroke": 4980,
+        "cancer": 1808
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "ee1adb78478bf80",
+        "covid": 877,
+        "stroke": 200,
+        "cancer": 435
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "2fff9ac231a6768",
+        "covid": 4683,
+        "stroke": 277,
+        "cancer": 4811
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "7647af9d4705c6b",
+        "covid": 1801,
+        "stroke": 465,
+        "cancer": 2675
+    },
+    {
+        "country": "bulgaria",
+        "hospital_id": "c6eb96acc73baa0",
+        "covid": 2819,
+        "stroke": 1970,
+        "cancer": 2727
+    },
+    {
+        "country": "cambodia",
+        "hospital_id": "67eeacabcfccb6c",
+        "covid": 660,
+        "stroke": 1314,
+        "cancer": 3412
+    },
+    {
+        "country": "cambodia",
+        "hospital_id": "edbdabfd62cbea7",
+        "covid": 1143,
+        "stroke": 4431,
+        "cancer": 1796
+    },
+    {
+        "country": "cambodia",
+        "hospital_id": "6bdeeb7334ec8a1",
+        "covid": 319,
+        "stroke": 1938,
+        "cancer": 1433
+    },
+    {
+        "country": "cambodia",
+        "hospital_id": "dfcadad69fe1d2a",
+        "covid": 1710,
+        "stroke": 3751,
+        "cancer": 1125
+    },
+    {
+        "country": "cambodia",
+        "hospital_id": "f6025bcbbd3953e",
+        "covid": 2518,
+        "stroke": 2562,
+        "cancer": 2311
+    },
+    {
+        "country": "cambodia",
+        "hospital_id": "958cabb9b17124d",
+        "covid": 838,
+        "stroke": 2305,
+        "cancer": 4366
+    },
+    {
+        "country": "cameroon",
+        "hospital_id": "a8fd24e2bb7d0fd",
+        "covid": 3229,
+        "stroke": 777,
+        "cancer": 4174
+    },
+    {
+        "country": "cameroon",
+        "hospital_id": "19d7de485e79df6",
+        "covid": 1940,
+        "stroke": 911,
+        "cancer": 859
+    },
+    {
+        "country": "cameroon",
+        "hospital_id": "3c6fd0d86e7baaf",
+        "covid": 1951,
+        "stroke": 2999,
+        "cancer": 1721
+    },
+    {
+        "country": "cameroon",
+        "hospital_id": "8c4d487cabce6e9",
+        "covid": 3015,
+        "stroke": 4374,
+        "cancer": 3114
+    },
+    {
+        "country": "canada",
+        "hospital_id": "3851f381ea54d70",
+        "covid": 927,
+        "stroke": 4538,
+        "cancer": 2042
+    },
+    {
+        "country": "canada",
+        "hospital_id": "a0bbb5ab97fe257",
+        "covid": 1526,
+        "stroke": 2802,
+        "cancer": 4366
+    },
+    {
+        "country": "canada",
+        "hospital_id": "54fa48043aaacd4",
+        "covid": 2864,
+        "stroke": 607,
+        "cancer": 3134
+    },
+    {
+        "country": "canada",
+        "hospital_id": "0d2d0dc2ddb267c",
+        "covid": 1387,
+        "stroke": 4973,
+        "cancer": 2052
+    },
+    {
+        "country": "canada",
+        "hospital_id": "60a7985f64acbaf",
+        "covid": 3711,
+        "stroke": 705,
+        "cancer": 1283
+    },
+    {
+        "country": "canada",
+        "hospital_id": "b87a9762ff1ecdc",
+        "covid": 3756,
+        "stroke": 307,
+        "cancer": 291
+    },
+    {
+        "country": "canada",
+        "hospital_id": "d17135fb399dd4c",
+        "covid": 3627,
+        "stroke": 3432,
+        "cancer": 4170
+    },
+    {
+        "country": "canada",
+        "hospital_id": "c8efd8a1ae4e3cf",
+        "covid": 3533,
+        "stroke": 4972,
+        "cancer": 2172
+    },
+    {
+        "country": "canada",
+        "hospital_id": "d253b3cee134fed",
+        "covid": 3060,
+        "stroke": 901,
+        "cancer": 1287
+    },
+    {
+        "country": "canada",
+        "hospital_id": "e67e4dead7f7ac8",
+        "covid": 3075,
+        "stroke": 2292,
+        "cancer": 1682
+    },
+    {
+        "country": "canada",
+        "hospital_id": "ef56bdce48de5ff",
+        "covid": 3171,
+        "stroke": 1157,
+        "cancer": 1658
+    },
+    {
+        "country": "canada",
+        "hospital_id": "ba907c2acbc34ba",
+        "covid": 2331,
+        "stroke": 4769,
+        "cancer": 4928
+    },
+    {
+        "country": "canada",
+        "hospital_id": "e0da4a69658eaca",
+        "covid": 1677,
+        "stroke": 4220,
+        "cancer": 2279
+    },
+    {
+        "country": "canada",
+        "hospital_id": "d457875b76d0ad8",
+        "covid": 561,
+        "stroke": 387,
+        "cancer": 2389
+    },
+    {
+        "country": "canada",
+        "hospital_id": "ca8e1dfba7b1d8d",
+        "covid": 969,
+        "stroke": 904,
+        "cancer": 2613
+    },
+    {
+        "country": "chad",
+        "hospital_id": "ef7e820bc9f7e49",
+        "covid": 1213,
+        "stroke": 441,
+        "cancer": 1278
+    },
+    {
+        "country": "chad",
+        "hospital_id": "a5e8ce5cf97c2ac",
+        "covid": 2086,
+        "stroke": 4510,
+        "cancer": 1632
+    },
+    {
+        "country": "chad",
+        "hospital_id": "5e2bb2dace9511e",
+        "covid": 4927,
+        "stroke": 3577,
+        "cancer": 1129
+    },
+    {
+        "country": "chad",
+        "hospital_id": "f8a35a4b5d7b2c1",
+        "covid": 379,
+        "stroke": 2021,
+        "cancer": 2828
+    },
+    {
+        "country": "chad",
+        "hospital_id": "795195c9db5e1c0",
+        "covid": 851,
+        "stroke": 3492,
+        "cancer": 3176
+    },
+    {
+        "country": "chad",
+        "hospital_id": "de66a10faf4e5b1",
+        "covid": 1648,
+        "stroke": 1955,
+        "cancer": 673
+    },
+    {
+        "country": "chad",
+        "hospital_id": "994aad9baa0bef3",
+        "covid": 1347,
+        "stroke": 826,
+        "cancer": 4713
+    },
+    {
+        "country": "chile",
+        "hospital_id": "9aaad5026aa8abf",
+        "covid": 992,
+        "stroke": 4016,
+        "cancer": 1699
+    },
+    {
+        "country": "chile",
+        "hospital_id": "afeaf6beef0db13",
+        "covid": 4765,
+        "stroke": 2524,
+        "cancer": 1652
+    },
+    {
+        "country": "chile",
+        "hospital_id": "391e22a22e6c77a",
+        "covid": 2412,
+        "stroke": 3533,
+        "cancer": 1753
+    },
+    {
+        "country": "china",
+        "hospital_id": "e7e0efaacc8122d",
+        "covid": 1310,
+        "stroke": 4779,
+        "cancer": 1196
+    },
+    {
+        "country": "china",
+        "hospital_id": "ceab4db1cad0adf",
+        "covid": 4125,
+        "stroke": 4327,
+        "cancer": 534
+    },
+    {
+        "country": "china",
+        "hospital_id": "3f665deb1d8d4e9",
+        "covid": 2678,
+        "stroke": 4776,
+        "cancer": 573
+    },
+    {
+        "country": "china",
+        "hospital_id": "4d6a2a19bf95fc4",
+        "covid": 1355,
+        "stroke": 2295,
+        "cancer": 2751
+    },
+    {
+        "country": "china",
+        "hospital_id": "dc94cdf6d5bddbd",
+        "covid": 238,
+        "stroke": 2300,
+        "cancer": 3433
+    },
+    {
+        "country": "china",
+        "hospital_id": "0bcebfcd12bcb7e",
+        "covid": 163,
+        "stroke": 175,
+        "cancer": 4660
+    },
+    {
+        "country": "china",
+        "hospital_id": "8f55cd0ad6dcde2",
+        "covid": 1212,
+        "stroke": 3318,
+        "cancer": 1742
+    },
+    {
+        "country": "china",
+        "hospital_id": "a6bc77d5ce07c7b",
+        "covid": 4753,
+        "stroke": 939,
+        "cancer": 714
+    },
+    {
+        "country": "china",
+        "hospital_id": "bcaac3adb10bf1c",
+        "covid": 4473,
+        "stroke": 2934,
+        "cancer": 1519
+    },
+    {
+        "country": "china",
+        "hospital_id": "32dffb53469ea98",
+        "covid": 2419,
+        "stroke": 1314,
+        "cancer": 4298
+    },
+    {
+        "country": "china",
+        "hospital_id": "73ab5e45c1e5b55",
+        "covid": 2305,
+        "stroke": 2057,
+        "cancer": 3550
+    },
+    {
+        "country": "china",
+        "hospital_id": "7cf53a7abba2ca1",
+        "covid": 2605,
+        "stroke": 3948,
+        "cancer": 1840
+    },
+    {
+        "country": "china",
+        "hospital_id": "70eeceee7d6faec",
+        "covid": 1807,
+        "stroke": 644,
+        "cancer": 1564
+    },
+    {
+        "country": "china",
+        "hospital_id": "1a1402caa5a1f1c",
+        "covid": 370,
+        "stroke": 1229,
+        "cancer": 197
+    },
+    {
+        "country": "china",
+        "hospital_id": "699e5b0fe674695",
+        "covid": 630,
+        "stroke": 4571,
+        "cancer": 743
+    },
+    {
+        "country": "china",
+        "hospital_id": "35762be17ca3d47",
+        "covid": 2856,
+        "stroke": 816,
+        "cancer": 4677
+    },
+    {
+        "country": "china",
+        "hospital_id": "de5fc71de825bfc",
+        "covid": 2871,
+        "stroke": 645,
+        "cancer": 2422
+    },
+    {
+        "country": "colombia",
+        "hospital_id": "aeec625ffe6bbcc",
+        "covid": 1618,
+        "stroke": 3206,
+        "cancer": 3197
+    },
+    {
+        "country": "colombia",
+        "hospital_id": "3a3d7c279ef39ed",
+        "covid": 3998,
+        "stroke": 1771,
+        "cancer": 4402
+    },
+    {
+        "country": "colombia",
+        "hospital_id": "a9aace4ae9da4e5",
+        "covid": 2722,
+        "stroke": 2814,
+        "cancer": 2047
+    },
+    {
+        "country": "comoros",
+        "hospital_id": "9fb0f575eda185e",
+        "covid": 923,
+        "stroke": 906,
+        "cancer": 1618
+    },
+    {
+        "country": "comoros",
+        "hospital_id": "334b91221694b23",
+        "covid": 3336,
+        "stroke": 614,
+        "cancer": 2968
+    },
+    {
+        "country": "comoros",
+        "hospital_id": "05bbfbda2ad8e1a",
+        "covid": 3426,
+        "stroke": 965,
+        "cancer": 2802
+    },
+    {
+        "country": "congo",
+        "hospital_id": "6b1bbe5dfdac090",
+        "covid": 3395,
+        "stroke": 2137,
+        "cancer": 2392
+    },
+    {
+        "country": "congo",
+        "hospital_id": "da71cdd001e06d6",
+        "covid": 2704,
+        "stroke": 1339,
+        "cancer": 3249
+    },
+    {
+        "country": "congo",
+        "hospital_id": "b7b5ca3592086ed",
+        "covid": 2410,
+        "stroke": 1939,
+        "cancer": 427
+    },
+    {
+        "country": "congo",
+        "hospital_id": "d2b69efedff6f87",
+        "covid": 434,
+        "stroke": 2428,
+        "cancer": 1324
+    },
+    {
+        "country": "congo",
+        "hospital_id": "3edc8528529b302",
+        "covid": 2910,
+        "stroke": 2461,
+        "cancer": 2697
+    },
+    {
+        "country": "congo",
+        "hospital_id": "a9a62abc02eceeb",
+        "covid": 494,
+        "stroke": 2559,
+        "cancer": 1257
+    },
+    {
+        "country": "congo",
+        "hospital_id": "3ee4fbffa7150bc",
+        "covid": 4424,
+        "stroke": 1539,
+        "cancer": 3118
+    },
+    {
+        "country": "congo",
+        "hospital_id": "08bccf6da86fba2",
+        "covid": 3087,
+        "stroke": 3205,
+        "cancer": 1055
+    },
+    {
+        "country": "cook islands",
+        "hospital_id": "d343b9db0563a4e",
+        "covid": 2352,
+        "stroke": 927,
+        "cancer": 1016
+    },
+    {
+        "country": "cook islands",
+        "hospital_id": "ea75cd979ec705f",
+        "covid": 314,
+        "stroke": 1655,
+        "cancer": 3283
+    },
+    {
+        "country": "cook islands",
+        "hospital_id": "5b62b5165b3a0c8",
+        "covid": 3356,
+        "stroke": 1188,
+        "cancer": 3605
+    },
+    {
+        "country": "cook islands",
+        "hospital_id": "f9a2fb187bcdc9f",
+        "covid": 1049,
+        "stroke": 462,
+        "cancer": 122
+    },
+    {
+        "country": "cook islands",
+        "hospital_id": "3ddeb6ddcfc4f51",
+        "covid": 834,
+        "stroke": 1667,
+        "cancer": 1204
+    },
+    {
+        "country": "cook islands",
+        "hospital_id": "cb54d184eb3677f",
+        "covid": 625,
+        "stroke": 2489,
+        "cancer": 4896
+    },
+    {
+        "country": "costa rica",
+        "hospital_id": "b73e7cac4fae8fe",
+        "covid": 343,
+        "stroke": 4536,
+        "cancer": 414
+    },
+    {
+        "country": "costa rica",
+        "hospital_id": "eb43ce5cb105fcc",
+        "covid": 1166,
+        "stroke": 1192,
+        "cancer": 4022
+    },
+    {
+        "country": "costa rica",
+        "hospital_id": "c9dbfbffffef44c",
+        "covid": 1838,
+        "stroke": 852,
+        "cancer": 4880
+    },
+    {
+        "country": "costa rica",
+        "hospital_id": "521b3d4a4be241e",
+        "covid": 3457,
+        "stroke": 429,
+        "cancer": 493
+    },
+    {
+        "country": "cote d'ivoire",
+        "hospital_id": "ad2eb3c8c24db87",
+        "covid": 4143,
+        "stroke": 1525,
+        "cancer": 3049
+    },
+    {
+        "country": "cote d'ivoire",
+        "hospital_id": "50a5cfcded6ad6a",
+        "covid": 2778,
+        "stroke": 3631,
+        "cancer": 3084
+    },
+    {
+        "country": "cote d'ivoire",
+        "hospital_id": "2e9eeb3cb58afcd",
+        "covid": 1007,
+        "stroke": 4136,
+        "cancer": 2116
+    },
+    {
+        "country": "cote d'ivoire",
+        "hospital_id": "6fcb10da7e6f9df",
+        "covid": 323,
+        "stroke": 4018,
+        "cancer": 638
+    },
+    {
+        "country": "croatia",
+        "hospital_id": "e1dd58a2ced2812",
+        "covid": 2614,
+        "stroke": 1774,
+        "cancer": 3592
+    },
+    {
+        "country": "croatia",
+        "hospital_id": "136dd17ebfae94f",
+        "covid": 3280,
+        "stroke": 1465,
+        "cancer": 479
+    },
+    {
+        "country": "cuba",
+        "hospital_id": "dad2bd3ae5ce86d",
+        "covid": 2904,
+        "stroke": 2096,
+        "cancer": 3811
+    },
+    {
+        "country": "cuba",
+        "hospital_id": "fa302496c8b81de",
+        "covid": 149,
+        "stroke": 4761,
+        "cancer": 2445
+    },
+    {
+        "country": "cuba",
+        "hospital_id": "fddf45e1defebbc",
+        "covid": 4004,
+        "stroke": 1864,
+        "cancer": 3053
+    },
+    {
+        "country": "cuba",
+        "hospital_id": "cbd16b4174ded61",
+        "covid": 3990,
+        "stroke": 993,
+        "cancer": 1890
+    },
+    {
+        "country": "cuba",
+        "hospital_id": "5a1abaad8cf84dc",
+        "covid": 1864,
+        "stroke": 136,
+        "cancer": 393
+    },
+    {
+        "country": "cuba",
+        "hospital_id": "30aa99fbfaf7ae0",
+        "covid": 2649,
+        "stroke": 848,
+        "cancer": 4775
+    },
+    {
+        "country": "cyprus",
+        "hospital_id": "ebd8bceefc9a560",
+        "covid": 3396,
+        "stroke": 181,
+        "cancer": 569
+    },
+    {
+        "country": "cyprus",
+        "hospital_id": "abf8dccabe179f9",
+        "covid": 2731,
+        "stroke": 1617,
+        "cancer": 2878
+    },
+    {
+        "country": "cyprus",
+        "hospital_id": "d8eae5c3a1f27ef",
+        "covid": 2454,
+        "stroke": 3583,
+        "cancer": 2699
+    },
+    {
+        "country": "cyprus",
+        "hospital_id": "ebcf126fe9fdead",
+        "covid": 3834,
+        "stroke": 2004,
+        "cancer": 3087
+    },
+    {
+        "country": "cyprus",
+        "hospital_id": "1c1bc158dee046b",
+        "covid": 930,
+        "stroke": 4907,
+        "cancer": 1920
+    },
+    {
+        "country": "czech republic",
+        "hospital_id": "f8bd41b97f5e96a",
+        "covid": 2614,
+        "stroke": 1158,
+        "cancer": 590
+    },
+    {
+        "country": "czech republic",
+        "hospital_id": "0aded4af925c9ec",
+        "covid": 1540,
+        "stroke": 4913,
+        "cancer": 4169
+    }
+]
